@@ -25,6 +25,17 @@
     margin-bottom: 2.5rem;
     padding-top: 1rem;
     padding-bottom: 1rem;
+    width: 70%;
+    display: flex;
+    justify-content: center;
+}
+
+
+.margensito {
+    margin-bottom: 5rem;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
 }
 
 h1 {
@@ -71,11 +82,17 @@ flex-wrap: wrap;
     justify-content: center;
 }
 
+/* .cuerpo {
+    width: 300px;
+} */
+
 .lechuga {
     background-image: url(/img/lechuginha.jpg);
     background-repeat: no-repeat;
     background-size: 100%;
     border-radius: 10px;
+    width: 280px; 
+    height: 200px;
 }
 
 .chicas {
@@ -83,6 +100,8 @@ flex-wrap: wrap;
     background-repeat: no-repeat;
     background-size: 100%;
     border-radius: 10px;
+    width: 280px; 
+    height: 200px;
 }
 
 .inves {
@@ -90,6 +109,8 @@ flex-wrap: wrap;
     background-repeat: no-repeat;
     background-size: 100%;
     border-radius: 10px;
+    width: 280px; 
+    height: 200px;
 }
 
 .cartas_medio {
@@ -153,9 +174,6 @@ body {
     margin-bottom: 5rem;
 }
 
-.margensito {
-    margin-bottom: 5rem;
-}
 
 .logo {
     width: 50px;
