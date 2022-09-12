@@ -1,0 +1,205 @@
+
+    
+
+.banner {
+    background-image: url(/img/lechuga.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 20rem;
+    width: 100%!important;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.fondo {
+    background-image: url(/img/lechuga.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.sii {
+    /* display: flex; */
+    margin: auto;
+    margin-top: 2.5rem;
+    margin-bottom: 2.5rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    width: 70%;
+    display: flex;
+    justify-content: center;
+}
+
+
+.margensito {
+    margin-bottom: 5rem;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+h1 {
+    color: white;
+    font-size: 6rem;
+    font-family: 'Pacifico', cursive!important;
+}
+
+.acordeon {
+    width: 80%;
+    margin: auto;
+}
+
+.accordion {
+    margin-top: 5rem;
+}
+
+/* .quienes-somos {
+width: 100%;
+margin: auto;
+flex-wrap: wrap;
+} */
+
+.lechu {
+    background: rgb(68,167,62);
+    background: linear-gradient(41deg, rgba(68,167,62,0.23042720506171221) 0%, rgba(155,255,80,1) 150%);}
+
+
+.carta {
+    width: 95%;
+}
+
+.sombra {
+    box-shadow: 0px 5px 7px 0px rgba(212,212,212,0.75);
+    -webkit-box-shadow: 0px 5px 7px 0px rgba(212,212,212,0.75);
+    -moz-box-shadow: 0px 5px 7px 0px rgba(212,212,212,0.75);
+    border-radius: 10px;
+}
+
+.cartas_ancho {
+    width: 330px;
+    padding-top: 1rem;
+    display: flex;
+    justify-content: center;
+}
+
+/* .cuerpo {
+    width: 300px;
+} */
+
+.lechuga {
+    background-image: url(/img/lechuginha.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    border-radius: 10px;
+    width: 280px; 
+    height: 200px;
+}
+
+.chicas {
+    background-image: url(/img/chiques.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    border-radius: 10px;
+    width: 280px; 
+    height: 200px;
+}
+
+.inves {
+    background-image: url(/img//invernadero.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    border-radius: 10px;
+    width: 280px; 
+    height: 200px;
+}
+
+.cartas_medio {
+margin: auto;
+    display: flex;
+    justify-content: center;
+    padding-bottom: 3rem;
+    width: 100%;
+    flex-wrap: wrap;
+}
+
+.cartas_medio_lechuga {
+    margin: auto;
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+        width: 100%;
+        padding-top: 1rem;
+    }
+
+/* .fotocard {
+   width: 20rem;
+} */
+
+.up2 {
+background-image: url(/img/banner.png);
+    background-repeat: repeat;
+    background-size: 100%;
+
+}
+
+.titulo_lechuga {
+    margin-top: 7rem;
+}
+
+.up {
+    background: rgb(68,167,62);
+    background: linear-gradient(300deg, rgba(145, 238, 53, 0.756) 0%, rgba(7, 7, 7, 0.175) 150%);
+
+    background-repeat: no-repeat;
+    background-size: 100%;
+    border-radius: 10px;
+
+}
+
+main {
+    background-color: white;
+}
+
+body {
+    background-color: rgb(255, 255, 255);
+}
+
+
+
+.quienes-somos-titulo {
+    margin-top: 2rem;
+}
+
+.quienes-somos p {
+    margin-bottom: 5rem;
+}
+
+
+.logo {
+    width: 50px;
+}
+
+.navbar {
+    background-color: white!important;
+    padding: 0px!important;
+}
+
+
+
+
+
+
+
+
+
+
+
+footer {
+    background: rgb(68,167,62);
+    background: linear-gradient(41deg, rgba(68,167,62,0.23042720506171221) 0%, rgba(155,255,80,1) 150%);
+    margin-top: 5rem;
+}
+
+
+
+ 
