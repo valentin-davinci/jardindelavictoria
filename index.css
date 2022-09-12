@@ -1,3 +1,6 @@
+
+
+
 .banner {
     background-image: url(/img/lechuga.jpg);
     background-size: 100%;
@@ -7,6 +10,12 @@
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+.fondo {
+    background-image: url(/img/lechuga.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
 }
 
 .sii {
@@ -36,6 +45,7 @@ h1 {
 .quienes-somos {
 width: 60%;
 margin: auto;
+flex-wrap: wrap;
 }
 
 .lechu {
@@ -56,7 +66,9 @@ margin: auto;
 
 .cartas_ancho {
     width: 330px;
-
+    padding-top: 3rem;
+    display: flex;
+    justify-content: center;
 }
 
 .lechuga {
@@ -74,17 +86,53 @@ margin: auto;
 }
 
 .inves {
-    background-image: url(/img//inves.jpg);
+    background-image: url(/img//invernadero.jpg);
     background-repeat: no-repeat;
     background-size: 100%;
     border-radius: 10px;
 }
+
 .cartas_medio {
 margin: auto;
     display: flex;
     justify-content: center;
+    padding-bottom: 3rem;
+    width: 100%;
     flex-wrap: wrap;
-    background-color: rgb(245, 245, 245);
+}
+
+.cartas_medio_lechuga {
+    margin: auto;
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+        width: 100%;
+        padding-top: 1rem;
+    }
+
+/* .fotocard {
+   width: 20rem;
+} */
+
+.up2 {
+background-image: url(/img/banner.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+}
+
+.titulo_lechuga {
+    margin-top: 7rem;
+}
+
+.up {
+    background: rgb(68,167,62);
+    background: linear-gradient(41deg, rgba(68,167,62,0.23042720506171221) 0%, rgba(155,255,80,1) 150%);
+
+    background-repeat: no-repeat;
+    background-size: 100%;
+    border-radius: 20px;
+
 }
 
 main {
@@ -128,7 +176,11 @@ body {
 
 
 
-
+footer {
+    background: rgb(68,167,62);
+    background: linear-gradient(41deg, rgba(68,167,62,0.23042720506171221) 0%, rgba(155,255,80,1) 150%);
+    margin-top: 5rem;
+}
 
 
 @media (max-width: 576px) { 
