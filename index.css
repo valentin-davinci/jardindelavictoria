@@ -137,7 +137,7 @@ margin: auto;
 
 .up2 {
 background-image: url(/img/banner.png);
-    background-repeat: no-repeat;
+    background-repeat: repeat;
     background-size: 100%;
 
 }
@@ -148,7 +148,7 @@ background-image: url(/img/banner.png);
 
 .up {
     background: rgb(68,167,62);
-    background: linear-gradient(41deg, rgba(68,167,62,0.23042720506171221) 0%, rgba(155,255,80,1) 150%);
+    background: linear-gradient(300deg, rgba(145, 238, 53, 0.756) 0%, rgba(7, 7, 7, 0.175) 150%);
 
     background-repeat: no-repeat;
     background-size: 100%;
