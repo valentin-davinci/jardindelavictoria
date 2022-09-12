@@ -1,11 +1,11 @@
 
-
+    
 
 .banner {
     background-image: url(/img/lechuga.jpg);
     background-size: 100%;
     background-repeat: no-repeat;
-    height: 80vh;
+    height: 20rem;
     width: 100%!important;
     display: flex;
     justify-content: center;
@@ -183,8 +183,5 @@ footer {
 }
 
 
-@media (max-width: 576px) { 
-
- }
 
  
